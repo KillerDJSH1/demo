@@ -1,4 +1,4 @@
---西高德,水之王
+--西高德
 function c69696901.initial_effect(c)
 	--xyz summon
 	aux.AddXyzProcedure(c,aux.FilterBoolFunction(Card.IsAttribute,ATTRIBUTE_WATER),6,2)
